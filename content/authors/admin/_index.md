@@ -46,7 +46,7 @@ education:
   social:
     - icon: cv
       icon_pack: ai
-      link: https://drive.google.com/file/d/1ALpvVeu9-oPvjIFVKnOkYVCMHVFCfZwS/view?usp=sharing
+      link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
